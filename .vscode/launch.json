@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debugger: Emiri Agent",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "app.py",
+            "console": "integratedTerminal",
+            "python": "${command:python.interpreterPath}",
+            "envFile": "${workspaceFolder}/env/.env"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+| Module                                    | Duration |
+| ----------------------------------------- | -------- |
+| Orientation Session                       | 1h 38m   |
+| Course Introduction (Module-1)            | 0h 25m   |
+| Python Introduction (Module-2)            | 1h 08m   |
+| Module-3 Python Basics                    | 2h 26m   |
+| Module-4 Python Conditional & Loop        | 2h 04m   |
+| Module-5 Python Data Structure            | 3h 14m   |
+| Module-6 Python Function                  | 1h 41m   |
+| Module-7 Python OOPS                      | 3h 13m   |
+| Module-8 Error Handling                   | 1h 07m   |
+| Module-9 Data Science Libraries in Python | 2h 58m   |
+| Module-10 Python Flask                    | 0h 39m   |
+| Module-11 Python File Handling            | 0h 33m   |
+| Module-12 Working with Database           | 1h 25m   |
+| Statistics Basic                          | 2h 30m   |
+| Statistics Advance                        | 5h 43m   |
+| Machine Learning Part-1                   | 4h 15m   |
+| EDA - ML Part-2                           | 1h 45m   |
+| ML Part-3 Linear & Logistic Regression    | 8h 51m   |
+| ML Part-4 Decision Trees & SVM            | 3h 53m   |
+| Naive Bayes & Ensemble Techniques         | 4h 30m   |
+| KNN & PCA                                 | 1h 39m   |
+| Clustering                                | 1h 33m   |
+| Anomaly Detection & Time Series           | 4h 43m   |
+| ML Project - Diamond Price Prediction     | 2h 35m   |
+| Neural Network - Simple Perceptron        | 1h 25m   |
+| Machine Learning Project Discussion       | 5h 20m   |
+| Neural Networks                           | 7h 21m   |
+| Tensorflow & PyTorch                      | 4h 27m   |
+| CNN                                       | 7h 55m   |
+| YOLO                                      | 6h 30m   |
+| GAN                                       | 2h 18m   |
+| NLP                                       | 5h 32m   |
+| Computer Vision Projects                  | 7h 27m   |
+| Big Data                                  | 1h 17m   |
+| BigData - Spark                           | 1h 01m   |
+| Data Analytics - Tableau                  | 7h 36m   |
+| Total                                     | 108h 45m |

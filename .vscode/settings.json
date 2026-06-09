@@ -1,0 +1,18 @@
+{
+    "python.defaultInterpreterPath": "ineuron_env",
+    "python.envFile": "${workspaceFolder}/env/.env",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.useEnvFile": true,
+    "eslint.enable": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell (conda: ineuron_env)": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "conda activate ineuron_env"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell (conda: ineuron_env)"
+}
